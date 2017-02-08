@@ -1,6 +1,6 @@
 #include <cstdlib>
 #include <ctime>
-#include "sorts_P3_1.h"
+#include "sorts.h"
 
 using namespace std;
 
