@@ -1,0 +1,18 @@
+#strength
+axe
+lifestealer
+lycan
+sand king
+#agility
+bloodseeker
+lone druid
+ursa
+#intelligence
+batrider
+chen
+crystal maiden
+dark seer
+enchantress
+enigma
+keeper of the light
+nature's prophet

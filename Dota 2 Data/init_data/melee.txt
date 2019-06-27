@@ -1,0 +1,55 @@
+abaddon
+alchemist
+anti-mage
+axe
+beastmaster
+bloodseeker
+bounty hunter
+brewmaster
+bristleback
+broodmother
+centaur warrunner
+chaos knight
+clockwerk
+dark seer
+doom
+dragon knight
+earth spirit
+earthshaker
+elder titan
+ember spirit
+faceless void
+juggernaut
+kunkka
+legion commander
+lifestealer
+lycan
+magnus
+meepo
+monkey king
+naga siren
+night stalker
+nyx assassin
+ogre magi
+omniknight
+pangolier
+phantom assassin
+phantom lancer
+pudge
+riki
+sand king
+slardar
+slark
+spectre
+spirit breaker
+sven
+terrorblade
+tidehunter
+timbersaw
+tiny
+treant protector
+tusk
+underlord
+undying
+ursa
+wraith king

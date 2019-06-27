@@ -1,0 +1,47 @@
+#strength
+centaur warrunner
+earth spirit
+io
+lifestealer
+lycan
+magnus
+phoenix
+sand king
+slardar
+spirit breaker
+timbersaw
+treant protector
+underlord
+#agility
+anti-mage
+arc warden
+bounty hunter
+broodmother
+clinkz
+ember spirit
+faceless void
+juggernaut
+meepo
+mirana
+monkey king
+morphling
+naga siren
+nyx assassin
+phantom assassin
+phantom lancer
+riki
+slark
+spectre
+templar assassin
+vengeful spirit
+weaver
+#intelligence
+batrider
+dark seer
+invoker
+nature's prophet
+oracle
+puck
+queen of pain
+storm spirit
+windranger

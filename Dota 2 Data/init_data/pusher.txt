@@ -1,0 +1,32 @@
+#strength
+chaos knight
+dragon knight
+lycan
+tiny
+#agility
+broodmother
+clinkz
+drow ranger
+juggernaut
+lone druid
+luna
+meepo
+naga siren
+phantom lancer
+razor
+terrorblade
+troll warlord
+venomancer
+#intelligence
+chen
+death prophet
+enchantress
+enigma
+invoker
+jakiro
+leshrac
+nature's prophet
+pugna
+shadow shaman
+tinker
+visage

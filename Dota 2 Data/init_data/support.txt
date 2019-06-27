@@ -1,0 +1,42 @@
+#strength
+abaddon
+alchemist
+earthshaker
+io
+omniknight
+phoenix
+treant protector
+underlord
+undying
+wraith king
+#agility
+mirana
+naga siren
+vengeful spirit
+venomancer
+#intelligence
+ancient apparition
+bane
+chen
+crystal maiden
+dazzle
+disruptor
+enchantress
+jakiro
+keeper of the light
+leshrac
+lich
+lina
+lion
+ogre magi
+oracle
+rubick
+shadow demon
+shadow shaman
+silencer
+skywrath mage
+visage
+warlock
+windranger
+winter wyvern
+witch doctor

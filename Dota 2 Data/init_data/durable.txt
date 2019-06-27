@@ -1,0 +1,48 @@
+#strength
+abaddon
+alchemist
+axe
+beastmaster
+brewmaster
+bristleback
+centaur warrunner
+chaos knight
+clockwerk
+doom
+dragon knight
+earth spirit
+elder titan
+huskar
+kunkka
+legion commander
+lifestealer
+lycan
+night stalker
+omniknight
+pudge
+slardar
+spirit breaker
+sven
+tidehunter
+timbersaw
+tiny
+treant protector
+underlord
+undying
+wraith king
+#agility
+faceless void
+lone druid
+medusa
+morphling
+razor
+spectre
+troll warlord
+ursa
+viper
+#intelligence
+bane
+enchantress
+necrophos
+ogre magi
+visage

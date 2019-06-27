@@ -1,0 +1,84 @@
+#strength
+alchemist
+beastmaster
+brewmaster
+bristleback
+centaur warrunner
+clockwerk
+doom
+dragon knight
+earthshaker
+earth spirit
+elder titan
+io
+kunkka
+legion commander
+magnus
+night stalker
+omniknight
+phoenix
+pudge
+sand king
+sven
+tidehunter
+timbersaw
+tiny
+tusk
+underlord
+undying
+#agility
+anti-mage
+arc warden
+bloodseeker
+bounty hunter
+broodmother
+ember spirit
+gyrocopter
+luna
+meepo
+mirana
+morphling
+nyx assassin
+phantom lancer
+razor
+shadow fiend
+slark
+sniper
+terrorblade
+vengeful spirit
+venomancer
+#intelligence
+ancient apparition
+bane
+crystal maiden
+dazzle
+death prophet
+disruptor
+invoker
+jakiro
+keeper of the light
+leshrac
+lich
+lina
+lion
+nature's prophet
+necrophos
+ogre magi
+oracle
+outworld devourer
+puck
+pugna
+queen of pain
+rubick
+shadow demon
+shadow shaman
+silencer
+skywrath mage
+storm spirit
+techies
+tinker
+visage
+windranger
+winter wyvern
+witch doctor
+zeus

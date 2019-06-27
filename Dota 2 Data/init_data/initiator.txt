@@ -1,0 +1,54 @@
+#strength
+alchemist
+axe
+beastmaster
+brewmaster
+bristleback
+centaur warrunner
+chaos knight
+clockwerk
+doom
+dragon knight
+earthshaker
+earth spirit
+elder titan
+huskar
+kunkka
+legion commander
+magnus
+night stalker
+phoenix
+pudge
+sand king
+slardar
+spirit breaker
+sven
+tidehunter
+tiny
+treant protector
+tusk
+wraith king
+#agility
+bloodseeker
+ember spirit
+faceless void
+meepo
+monkey king
+naga siren
+nyx assassin
+vengeful spirit
+venomancer
+viper
+#intelligence
+batrider
+dark seer
+disruptor
+enigma
+lion
+ogre magi
+puck
+shadow demon
+shadow shaman
+silencer
+storm spirit
+warlock
